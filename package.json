@@ -1,0 +1,30 @@
+{
+	"name": "speedmania",
+	"version": "0.0.1",
+	"private": true,
+	"description": "Real-time asynchronous racing on the browser",
+	"author": "kdi",
+	"contributors": [
+		{ "name": "Makis Tracend", "email": "makis@kdi.co" }
+	],
+	"homepage": "https://amigame.co",
+	"keywords": ["amigame", "template", "game", "construct"],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/amigame/speedmania.git"
+	},
+	"bugs": {
+		"url": "https://github.com/amigame/speedmania/issues"
+	},
+	"licenses": [
+		{
+			"type": "Mozilla Public License v2.0",
+			"url": "https://www.mozilla.org/MPL/2.0/"
+		}
+	],
+	"engines": { "construct": "*" },
+	"main": "index.html",
+	"dependencies": {
+		"construct": "*"
+	}
+}
